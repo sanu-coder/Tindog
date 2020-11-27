@@ -56,6 +56,12 @@ body {
         transform: rotate(0deg);
         padding-left: 180px;
     }
+    .nav-link {
+        text-align: right;
+    }
+    .nav-item {
+        padding-right: 0px;
+    }
 }
 
 @media (min-width:900) and (max-width:1200px) {
@@ -96,7 +102,7 @@ body {
         padding-left: 25px;
     }
     .row {
-        padding-left: 50px;
+        padding-left: 70px;
     }
     #features .container .row .col-lg-4 {
         padding-top: 40px;
